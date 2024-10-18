@@ -1,1 +1,1 @@
-# Algolution-2
+Algolution : Week 2 Problem's Solution
